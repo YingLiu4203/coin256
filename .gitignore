@@ -1,0 +1,38 @@
+# Generated files
+_book/
+_main.pdf
+*.aux
+*.log
+*.blg
+*.bbl
+*.toc
+*.lof
+*.lot
+*.out
+*.gz
+*.idx
+*.ind
+*.ilg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# Cache directories
+_cache/
+cache/
+
+# Temporary files
+*.tmp
+temp/
