@@ -7,7 +7,6 @@ equivalent to flipping a coin 256 times.
 """
 
 import secrets
-import binascii
 
 def generate_256_bit_key():
     """
