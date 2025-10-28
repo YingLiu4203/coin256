@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [第一章 二种个人权利](./content/ch1.md)
+- [第一章 二项基本人权](./content/ch1.md)
 - [第二章 守护个人权利](./content/ch2.md)
 - [第三章 不对称的防御能力](./content/ch3.md)
 - [第四章 主权个人](./content/ch4.md)
