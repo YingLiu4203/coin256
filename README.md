@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [序言 抛256次硬币](./content/ch0.md)
+- [序言 抛256次硬币就可以了](./content/ch0.md)
 - [第一章 二项基本人权](./content/ch1.md)
 - [第二章 守护个人权利](./content/ch2.md)
 - [第三章 不对称的防御能力](./content/ch3.md)
