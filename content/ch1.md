@@ -39,7 +39,7 @@
 
 美国在911恐怖袭击后通过《爱国者法案》（Patriot Act, 2001），允许国家安全局（NSA）和联邦调查局（FBI）更广泛地获取公民的通信、金融和互联网记录。企业（如电话公司、互联网服务提供商）可被要求在“保密令”（gag order）下提供用户数据。2018年通过《云法案》（CLOUD Act, 2018），要求美国公司（如微软、Google）即使数据存储在海外服务器，也必须在美国执法机构要求下提供数据。同时允许美国与他国签订数据访问协议，绕过传统司法协作程序。2013年斯诺登揭露国家安全局（NSA）直接从大型科技公司（Google、Facebook、Apple、Microsoft等）服务器中提取电子邮件、聊天、文件、视频等。此事件揭露的对个人权利的广泛侵犯引发全球震动与外交争议。
 
-端到端加密是个人通信隐私的基本保障。但是近年来，欧盟和英国政府在“国家安全”“反恐”以及“打击儿童性剥削内容”等理由下，均开始重新审视端到端加密技术的合法性与监管方式。欧盟委员会在《欧洲内部安全战略》（ProtectEU Strategy）中，将“端到端加密的合法访问”（lawful access）列为重点议题，认为强加密妨碍执法机构打击网络犯罪和恐怖主义并寻求让执法部门可以存取加密数据的可能方法[1]。在英国，政府依托《调查权力法案》（Investigatory Powers Act 2016）[2] 和《在线安全法案》（Online Safety Act 2023[3] 拥有广泛的数据访问权。英国内政部（Home Office）多次表示，若端到端加密阻碍警方侦查，科技公司应提供“技术能力通知”（Technical Capability Notice），即在技术上保留解密手段。2024年至2025年间，英国政府曾要求苹果公司为其 iCloud 服务提供访问后门。苹果拒绝后决定暂停在英国提供“高级数据保护（Advanced Data Protection）”端到端加密功能，并在公众舆论压力下，英国政府最终于2025年8月撤回了该要求。纵观历史，政府在个人信息自由的保护方面毫无信誉可言，无法让人信任。
+端到端加密是个人通信隐私的基本保障。但是近年来，欧盟和英国政府在“国家安全”“反恐”以及“打击儿童性剥削内容”等理由下，均开始重新审视端到端加密技术的合法性与监管方式。欧盟委员会在《欧洲内部安全战略》（ProtectEU Strategy）中，将“端到端加密的合法访问”（lawful access）列为重点议题，认为强加密妨碍执法机构打击网络犯罪和恐怖主义并寻求让执法部门可以存取加密数据的可能方法[欧盟加密法案]。在英国，政府依托《调查权力法案》（Investigatory Powers Act 2016）[调查权力法] 和《在线安全法案》（Online Safety Act 2023[网络安全法] 拥有广泛的数据访问权。英国内政部（Home Office）多次表示，若端到端加密阻碍警方侦查，科技公司应提供“技术能力通知”（Technical Capability Notice），即在技术上保留解密手段。2024年至2025年间，英国政府曾要求苹果公司为其 iCloud 服务提供访问后门。苹果拒绝后决定暂停在英国提供“高级数据保护（Advanced Data Protection）”端到端加密功能，并在公众舆论压力下，英国政府最终于2025年8月撤回了该要求。纵观历史，政府在个人信息自由的保护方面毫无信誉可言，无法让人信任。
 
 ### 3.2 财产权
 
@@ -86,10 +86,12 @@
 
 在人类的竞争与生存历史上，技术的发展让个人有能力在强权政府面前维护信息与财产自由的基本权利。
 
+## 参考资料
+
 [世界人权宣言]: https://www.un.org/zh/about-us/universal-declaration-of-human-rights
 [致命的自負]: https://www.eslite.com/product/10012117792682837849007
-[1]: https://home-affairs.ec.europa.eu/policies/internal-security/lawful-access-data/encryption_en
-[2]: https://www.gov.uk/government/publications/notices-regime-code-of-practice
-[3]: https://www.legislation.gov.uk/ukpga/2023/50
+[欧盟加密法案]: https://home-affairs.ec.europa.eu/policies/internal-security/lawful-access-data/encryption_en
+[调查权力法]: https://www.gov.uk/government/publications/notices-regime-code-of-practice
+[网络安全法]: https://www.legislation.gov.uk/ukpga/2023/50
 [加密貨幣之王]: https://www.eslite.com/product/1001289172682113434002
 [國家為什麼會破產: 橋水基金應對大週期的原則]: https://www.eslite.com/product/10012172932683000993008
