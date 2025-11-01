@@ -5,7 +5,7 @@
 ## 目录
 
 - [序言 抛256次硬币就可以了](./content/ch0.md)
-- [第一章 个人困境](./content/ch1.md)
+- [第一章 个人自由困境](./content/ch1.md)
 - [第二章 个人自由为何沦陷](./content/ch2.md)
 - [第三章 技术如何重建个人自由](./content/ch3.md)
 - [第四章 不对称的防御能力](./content/ch4.md)

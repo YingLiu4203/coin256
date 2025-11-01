@@ -1,4 +1,4 @@
-# 个人困境
+# 个人自由困境
 
 >在当前的危机中，政府不是解决问题的办法；政府本身就是问题所在。
 > In this present crisis, government is not the solution to our problem; government is the problem
