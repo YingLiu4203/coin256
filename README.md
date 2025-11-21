@@ -14,8 +14,7 @@
 - [第五章 不对称的防御能力](./content/ch5.md)
 - [第六章 货币与比特币](./content/ch6.md)
 - [第七章 山寨币与政府](./content/ch7.md)
-- [第八章 主权个人金融](./content/ch8.md)
-- [第九章 主权个人互联网](./content/ch9.md)
+- [第八章 主权个人互联网](./content/ch8.md)
 
 [参考资料](./reference/)子目录里有相关的参考书籍以及作者的演讲资料。
 
