@@ -16,7 +16,7 @@
 - [第七章 比特币的实现](./content/ch07.md)
 - [第八章 比特币的风险与发展](./content/ch08.md)
 - [第九章 比特币的价值](./content/ch09.md)
-- [第十章 模仿游戏:加密货币、区块链和 Web3](./content/ch10.md)
+- [第十章 模仿游戏: 加密货币、区块链和 Web3](./content/ch10.md)
 - [第十一章 山寨币与政府](./content/ch11.md)
 - [第十二章 主权个人互联网](./content/ch12.md)
 

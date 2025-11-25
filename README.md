@@ -16,7 +16,7 @@
 - [第七章 比特幣的實現](./content/ch07.md)
 - [第八章 比特幣的風險與發展](./content/ch08.md)
 - [第九章 比特幣的價值](./content/ch09.md)
-- [第十章 模仿遊戲:加密貨幣、區塊鏈和 Web3](./content/ch10.md)
+- [第十章 模仿遊戲：加密貨幣、區塊鏈和 Web3](./content/ch10.md)
 - [第十一章 山寨幣與政府](./content/ch11.md)
 - [第十二章 主權個人互聯網](./content/ch12.md)
 
