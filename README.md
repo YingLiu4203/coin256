@@ -6,8 +6,8 @@
 
 ## 目录
 
-- [序言 抛256次硬币就可以了](./content/ch00.md)
-- [第一章 个人自由困境](./content/ch01.md)
+- [序言 只需抛 256 次硬币](./content/ch00.md)
+- [第一章 个人自由的戈尔迪之结](./content/ch01.md)
 - [第二章 个人自由为何沦陷](./content/ch02.md)
 - [第三章 技术如何重建个人自由](./content/ch03.md)
 - [第四章 主权个人数字资产](./content/ch04.md)
