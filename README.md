@@ -16,12 +16,12 @@ SovinWeb，即新一代主权个人互联网。它标志着权力的彻底回归
 - [第三章 新技术铸造新文明](./content/ch03.md)
 - [第四章 主权个人数字资产](./content/ch04.md)
 - [第五章 不对称的防御能力](./content/ch05.md)
-- [第六章 货币与比特币的出现](./content/ch06.md)
-- [第七章 比特币的实现](./content/ch07.md)
-- [第八章 比特币的风险与发展](./content/ch08.md)
-- [第九章 比特币的价值](./content/ch09.md)
-- [第十章 模仿游戏: 加密货币、区块链和 Web3](./content/ch10.md)
+- [第六章 主权个人互联网](./content/ch06.md)
+- [第七章 货币与比特币的出现](./content/ch07.md)
+- [第八章 比特币的实现](./content/ch08.md)
+- [第九章 比特币的风险与发展](./content/ch09.md)
+- [第十章 比特币的价值](./content/ch10.md)
 - [第十一章 山寨币与政府](./content/ch11.md)
-- [第十二章 主权个人互联网](./content/ch12.md)
+- [第十二章 模仿游戏: 加密货币、区块链和 Web3](./content/ch12.md)
 
 [参考资料](./reference/)子目录里有相关的参考书籍以及作者的演讲资料。
