@@ -1,0 +1,93 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#fdfdfd"/>
+  
+  <!-- Definitions for gradients and shadows -->
+  <defs>
+    <radialGradient id="hubGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb366" />
+      <stop offset="100%" stop-color="#f96" />
+    </radialGradient>
+  </defs>
+
+  <!-- Global Mesh (Very subtle background connections) -->
+  <g stroke="#eee" stroke-width="0.5">
+    <line x1="150" y1="100" x2="650" y2="300" />
+    <line x1="150" y1="300" x2="650" y2="100" />
+    <line x1="400" y1="50" x2="400" y2="350" />
+  </g>
+
+  <!-- Long Distance Trust Bridges (Highlighting the Global Web) -->
+  <g stroke="#f96" stroke-width="1.5" stroke-opacity="0.6" fill="none">
+    <path d="M160 120 Q 400 20 640 120" />
+    <path d="M160 280 Q 400 380 640 280" />
+    <path d="M120 200 Q 400 200 680 200" stroke-dasharray="4,2" />
+  </g>
+
+  <!-- Cluster Asia/Pacific Style -->
+  <g transform="translate(100, 100)">
+    <circle cx="60" cy="100" r="12" fill="url(#hubGradient)" stroke="#d85" />
+    <circle cx="20" cy="60" r="8" fill="#e1f5fe" stroke="#03a9f4" />
+    <circle cx="100" cy="60" r="8" fill="#e1f5fe" stroke="#03a9f4" />
+    <circle cx="40" cy="150" r="8" fill="#e1f5fe" stroke="#03a9f4" />
+    <circle cx="80" cy="150" r="8" fill="#e1f5fe" stroke="#03a9f4" />
+    <g stroke="#999" stroke-width="1">
+      <line x1="60" y1="100" x2="20" y2="60" />
+      <line x1="60" y1="100" x2="100" y2="60" />
+      <line x1="60" y1="100" x2="40" y2="150" />
+      <line x1="60" y1="100" x2="80" y2="150" />
+      <line x1="20" y1="60" x2="100" y2="60" stroke-opacity="0.3" />
+    </g>
+  </g>
+
+  <!-- Cluster Europe/Middle East Style -->
+  <g transform="translate(350, 50)">
+    <circle cx="50" cy="50" r="12" fill="url(#hubGradient)" stroke="#d85" />
+    <circle cx="10" cy="30" r="8" fill="#f3e5f5" stroke="#9c27b0" />
+    <circle cx="90" cy="30" r="8" fill="#f3e5f5" stroke="#9c27b0" />
+    <circle cx="30" cy="90" r="8" fill="#f3e5f5" stroke="#9c27b0" />
+    <circle cx="70" cy="90" r="8" fill="#f3e5f5" stroke="#9c27b0" />
+    <g stroke="#999" stroke-width="1">
+      <line x1="50" y1="50" x2="10" y2="30" />
+      <line x1="50" y1="50" x2="90" y2="30" />
+      <line x1="50" y1="50" x2="30" y2="90" />
+      <line x1="50" y1="50" x2="70" y2="90" />
+    </g>
+  </g>
+
+  <!-- Cluster Americas Style -->
+  <g transform="translate(600, 150)">
+    <circle cx="40" cy="50" r="12" fill="url(#hubGradient)" stroke="#d85" />
+    <circle cx="0" cy="20" r="8" fill="#e8f5e9" stroke="#4caf50" />
+    <circle cx="80" cy="20" r="8" fill="#e8f5e9" stroke="#4caf50" />
+    <circle cx="0" cy="80" r="8" fill="#e8f5e9" stroke="#4caf50" />
+    <circle cx="80" cy="80" r="8" fill="#e8f5e9" stroke="#4caf50" />
+    <circle cx="40" cy="110" r="8" fill="#e8f5e9" stroke="#4caf50" />
+    <g stroke="#999" stroke-width="1">
+      <line x1="40" y1="50" x2="0" y2="20" />
+      <line x1="40" y1="50" x2="80" y2="20" />
+      <line x1="40" y1="50" x2="0" y2="80" />
+      <line x1="40" y1="50" x2="80" y2="80" />
+      <line x1="40" y1="50" x2="40" y2="110" />
+    </g>
+  </g>
+
+  <!-- Additional Scattered Nodes for "Global" feel -->
+  <circle cx="250" cy="250" r="6" fill="#cfd8dc" stroke="#90a4ae" />
+  <circle cx="550" cy="320" r="6" fill="#cfd8dc" stroke="#90a4ae" />
+  <circle cx="420" cy="280" r="6" fill="#cfd8dc" stroke="#90a4ae" />
+  <circle cx="150" cy="350" r="6" fill="#cfd8dc" stroke="#90a4ae" />
+  
+  <!-- Connecting the scattered nodes -->
+  <g stroke="#ccc" stroke-width="0.8" stroke-dasharray="2,2">
+    <line x1="160" y1="200" x2="250" y2="250" />
+    <line x1="250" y1="250" x2="420" y2="280" />
+    <line x1="420" y1="280" x2="550" y2="320" />
+    <line x1="550" y1="320" x2="640" y2="260" />
+    <line x1="400" y1="100" x2="420" y2="280" />
+  </g>
+
+  <!-- Labels -->
+  <text x="400" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#333">SovinWeb 全球信任网 (Web of Trust)</text>
+  <text x="160" y="215" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">区域信任中心</text>
+  <text x="640" y="275" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">跨洲桥梁节点</text>
+</svg>
