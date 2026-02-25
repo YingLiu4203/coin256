@@ -14,7 +14,7 @@ SovinWeb，即新一代主权个人互联网。它标志着权力的彻底回归
 - [第一章 个人自由的戈尔迪之结](./content/ch01.md)
 - [第二章 个人自由为何沦陷](./content/ch02.md)
 - [第三章 新技术铸造新文明](./content/ch03.md)
-- [第四章 主权个人数字资产](./content/ch04.md)
+- [第四章 主权个人数字系统](./content/ch04.md)
 - [第五章 不对称的防御能力](./content/ch05.md)
 - [第六章 主权个人互联网](./content/ch06.md)
 - [第七章 货币与比特币的出现](./content/ch07.md)
