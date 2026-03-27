@@ -1,0 +1,138 @@
+<svg viewBox="0 0 1300 550" xmlns="http://www.w3.org/2000/svg">
+    <!-- 增加整体白色背景 -->
+    <rect width="100%" height="100%" fill="white" />
+    
+    <style>
+        .box {
+            border: 2px solid black;
+            background: white;
+            padding: 10px 15px;
+            border-radius: 6px;
+            text-align: center;
+            font-weight: bold;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+            font-family: "Noto Sans SC", sans-serif;
+            font-size: 15px;
+        }
+        .box-title { font-size: 18px; }
+        .box-sub {
+            font-size: 13px;
+            color: black;
+            font-weight: normal;
+            margin-top: 2px;
+        }
+        .line {
+            stroke: black;
+            stroke-width: 2px;
+            fill: none;
+        }
+        .arrow-head {
+            fill: black;
+        }
+    </style>
+
+    <!-- 根节点: 数字货币 -->
+    <g transform="translate(525, 20)">
+        <foreignObject width="150" height="60">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box box-title">数字货币</div>
+        </foreignObject>
+    </g>
+
+    <!-- L1 连接线 -->
+    <path d="M600,80 L600,100 L250,100 L250,140" class="line" />
+    <path d="M600,80 L600,100 L850,100 L850,140" class="line" />
+    <polygon points="250,145 246,135 254,135" class="arrow-head" />
+    <polygon points="850,145 846,135 854,135" class="arrow-head" />
+
+    <!-- L1 框 -->
+    <g transform="translate(150, 145)">
+        <foreignObject width="200" height="70">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">
+                非加密货币
+                <div class="box-sub">（中心化信任）</div>
+            </div>
+        </foreignObject>
+    </g>
+    <g transform="translate(750, 145)">
+        <foreignObject width="200" height="70">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">
+                加密货币
+                <div class="box-sub">（无需信任）</div>
+            </div>
+        </foreignObject>
+    </g>
+
+    <!-- L2 连接线 (左侧) -->
+    <path d="M250,215 L250,240 L120,240 L120,280" class="line" />
+    <path d="M250,215 L250,240 L380,240 L380,280" class="line" />
+    <polygon points="120,285 116,275 124,275" class="arrow-head" />
+    <polygon points="380,285 376,275 384,275" class="arrow-head" />
+
+    <!-- L2 框 (左侧) -->
+    <g transform="translate(30, 285)">
+        <foreignObject width="180" height="60">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">金融机构数字账户</div>
+        </foreignObject>
+    </g>
+    <g transform="translate(290, 285)">
+        <foreignObject width="180" height="60">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">央行数字货币 (CBDC)</div>
+        </foreignObject>
+    </g>
+
+    <!-- L2 连接线 (右侧) -->
+    <path d="M850,215 L850,240 L650,240 L650,280" class="line" />
+    <path d="M850,215 L850,240 L1050,240 L1050,280" class="line" />
+    <polygon points="650,285 646,275 654,275" class="arrow-head" />
+    <polygon points="1050,285 1046,275 1054,275" class="arrow-head" />
+
+    <!-- L2 框 (右侧) -->
+    <g transform="translate(560, 285)">
+        <foreignObject width="180" height="70">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">
+                比特币
+                <div class="box-sub">（完全去中心化）</div>
+            </div>
+        </foreignObject>
+    </g>
+    <g transform="translate(960, 285)">
+        <foreignObject width="180" height="70">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">
+                山寨币
+                <div class="box-sub">（部分中心化）</div>
+            </div>
+        </foreignObject>
+    </g>
+
+    <!-- L3 连接线 (来自山寨币) -->
+    <path d="M1050,355 L1050,390 L890,390 L890,430" class="line" />
+    <path d="M1050,355 L1050,390 L1050,430" class="line" />
+    <path d="M1050,355 L1050,390 L1210,390 L1210,430" class="line" />
+    
+    <polygon points="890,435 886,425 894,425" class="arrow-head" />
+    <polygon points="1050,435 1046,425 1054,425" class="arrow-head" />
+    <polygon points="1210,435 1206,425 1214,425" class="arrow-head" />
+
+    <!-- L3 框 (山寨币细分) -->
+    <g transform="translate(830, 435)">
+        <foreignObject width="120" height="50">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">隐私币</div>
+        </foreignObject>
+    </g>
+    <g transform="translate(990, 435)">
+        <foreignObject width="120" height="50">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">功能币</div>
+        </foreignObject>
+    </g>
+    <g transform="translate(1150, 435)">
+        <foreignObject width="120" height="50">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">模因币</div>
+        </foreignObject>
+    </g>
+</svg>
