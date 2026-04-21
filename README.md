@@ -20,7 +20,7 @@ SovinWeb，即新一代主权个人互联网。它标志着权力的彻底回归
 - [第七章 货币与比特币](./content/ch07.md)
 - [第八章 比特币的功能与实现](./content/ch08.md)
 - [第九章 比特币的风险](./content/ch09.md)
-- [第十章 比特币的未来](./content/ch10.md)
+- [第十章 比特币的未来与价格猜想](./content/ch10.md)
 - [第十一章 模仿游戏](./content/ch11.md)
 - [第十二章 俄罗斯套娃](./content/ch12.md)
 - [第十三章 主权个人时代](./content/ch13.md)
