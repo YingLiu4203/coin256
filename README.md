@@ -37,6 +37,12 @@
   - [4-5 加密应用](./content/4/4_5.md)
   - [4-6 哈希算法](./content/4/4_6.md)
   - [4-7 零知识证明](./content/4/4_7.md)
+- [第五部 主权个人互联网 SovinWeb](./content/5/5_0.md)
+  - [5-1 信任模式](./content/5/5_1.md)
+  - [5-2 转播权与个人主权](./content/5/5_2.md)
+  - [5-3 SovinWeb 的构建](./content/5/5_3.md)
+  - [5-4 SovinWeb 体系结构](./content/5/5_4.md)
+  - [5-5 自由的回归](./content/5/5_5.md)
 
 [content](./content/)子目录是书的主体文本和图片。
 [参考资料](./reference/)子目录里有相关的参考书籍以及作者的演讲资料。
