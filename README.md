@@ -43,6 +43,11 @@
   - [5-3 SovinWeb 的构建](./content/5/5_3.md)
   - [5-4 SovinWeb 体系结构](./content/5/5_4.md)
   - [5-5 自由的回归](./content/5/5_5.md)
+- [第八部 主权个人时代](./content/8/8_0.md)
+  - [5-1 斯诺登的个人主权](./content/8/8_1.md)
+  - [8-2 普通人的个人主权](./content/8/8_2.md)
+  - [8-3 国家的退化](./content/8/8_3.md)
+  - [8-4 主权个人行动指南](./content/8/8_4.md)
 
 [content](./content/)子目录是书的主体文本和图片。
 [参考资料](./reference/)子目录里有相关的参考书籍以及作者的演讲资料。
