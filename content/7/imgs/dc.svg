@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1300 550" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1300 680" xmlns="http://www.w3.org/2000/svg">
     <!-- 增加整体白色背景 -->
     <rect width="100%" height="100%" fill="white" />
     
@@ -133,6 +133,25 @@
     <g transform="translate(1150, 435)">
         <foreignObject width="120" height="50">
             <div xmlns="http://www.w3.org/1999/xhtml" class="box">模因币</div>
+        </foreignObject>
+    </g>
+
+    <!-- L4 连接线 (来自功能币) -->
+    <path d="M1050,485 L1050,520 L980,520 L980,560" class="line" />
+    <path d="M1050,485 L1050,520 L1120,520 L1120,560" class="line" />
+
+    <polygon points="980,565 976,555 984,555" class="arrow-head" />
+    <polygon points="1120,565 1116,555 1124,555" class="arrow-head" />
+
+    <!-- L4 框 (功能币细分) -->
+    <g transform="translate(920, 565)">
+        <foreignObject width="120" height="50">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">稳定币</div>
+        </foreignObject>
+    </g>
+    <g transform="translate(1060, 565)">
+        <foreignObject width="120" height="50">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="box">服务代币</div>
         </foreignObject>
     </g>
 </svg>
