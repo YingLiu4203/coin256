@@ -6,7 +6,7 @@
 
 作者邮箱：author[at]sovinweb.org
 
-![cover](./book_cover.jpg)
+![cover](./book/book_cover.jpg)
 
 ### 目录
 
